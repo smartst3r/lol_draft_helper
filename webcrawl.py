@@ -4,6 +4,8 @@ from selenium import webdriver
 import time
 import pickle
 
+### scroll to bottom of page for how to search for players
+
 class Op_search():
 	def __init__(self,userName,Season):
 		self.base_url= 'https://na.op.gg/summoner/userName='
@@ -39,7 +41,7 @@ class Op_search():
 					writer.write(u+'\n'+' \n')
 					for i in objects[0]:
 						writer.write(i.get('Name')+' ')
-						writer.write(i.get('winRate')+' ')
+						writer.write(i.get('Win rate'+'winRate')+' ')
 						writer.write('Games played: '+str(i.get('gamesWon')+i.get('gamesLost'))+' ')
 						writer.write(' \n'+' \n')
 			count_username+=1
@@ -84,7 +86,7 @@ class Op_search():
 				gamesLost=int(games[1].text[:-1])
 			except:
 				gamesLost=0
-			# print(Name+'\n'+winRate+'\n'+str(gamesWon+gamesLost)+'\n')
+			print(Name+'\n'+winRate+'\n'+str(gamesWon+gamesLost)+'\n')
 			
 			temp={'Name':Name,'winRate':winRate,'gamesWon':gamesWon,'gamesLost':gamesLost}
 			master_list.append(temp)
@@ -96,5 +98,6 @@ class Op_search():
 
 #season 10 = 'season-15' ||| season 9 = 'season-13'
 #please input list or you will get errors
-#EXAMPLE search=Op_search(['Smartster','SgtNutBuster'],['season-13','season-15'])
+###UNCOMMENT EXAMPLE BELOW TO SEE HOW THIS WORKS 
+#search=Op_search(['Smartster','SgtNutBuster'],['season-13','season-15'])
 # search.save()
