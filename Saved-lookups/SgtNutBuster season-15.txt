@@ -1,16 +1,16 @@
 SgtNutBuster
  
-Veigar 100% Games played: 2  
+Veigar Win rate100% Games played: 2  
  
-Jhin 0% Games played: 2  
+Jhin Win rate0% Games played: 2  
  
-Aphelios 100% Games played: 1  
+Aphelios Win rate100% Games played: 1  
  
-Lucian 100% Games played: 1  
+Lucian Win rate100% Games played: 1  
  
-Sett 0% Games played: 1  
+Sett Win rate0% Games played: 1  
  
-Xayah 0% Games played: 1  
+Xayah Win rate0% Games played: 1  
  
-Caitlyn 0% Games played: 1  
+Caitlyn Win rate0% Games played: 1  
  

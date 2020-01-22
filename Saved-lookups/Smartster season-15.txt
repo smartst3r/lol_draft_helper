@@ -1,34 +1,34 @@
 Smartster
  
-Blitzcrank 57.142857142857% Games played: 7  
+Blitzcrank Win rate57.142857142857% Games played: 7  
  
-Lulu 60% Games played: 5  
+Lulu Win rate60% Games played: 5  
  
-Pyke 75% Games played: 4  
+Pyke Win rate75% Games played: 4  
  
-Senna 66.666666666667% Games played: 3  
+Senna Win rate66.666666666667% Games played: 3  
  
-Swain 33.333333333333% Games played: 3  
+Swain Win rate33.333333333333% Games played: 3  
  
-Malphite 100% Games played: 2  
+Malphite Win rate100% Games played: 2  
  
-Thresh 50% Games played: 2  
+Thresh Win rate50% Games played: 2  
  
-Janna 100% Games played: 1  
+Janna Win rate100% Games played: 1  
  
-Xerath 100% Games played: 1  
+Xerath Win rate100% Games played: 1  
  
-Syndra 100% Games played: 1  
+Syndra Win rate100% Games played: 1  
  
-Morgana 0% Games played: 1  
+Morgana Win rate0% Games played: 1  
  
-Braum 0% Games played: 1  
+Braum Win rate0% Games played: 1  
  
-Yuumi 0% Games played: 1  
+Yuumi Win rate0% Games played: 1  
  
-Leona 0% Games played: 1  
+Leona Win rate0% Games played: 1  
  
-Nautilus 0% Games played: 1  
+Nautilus Win rate0% Games played: 1  
  
-Taric 0% Games played: 1  
+Taric Win rate0% Games played: 1  
  

@@ -1,96 +1,96 @@
 Smartster
  
-Brand 40.909090909091% Games played: 44  
+Brand Win rate40.909090909091% Games played: 44  
  
-Thresh 54.285714285714% Games played: 35  
+Thresh Win rate54.285714285714% Games played: 35  
  
-Pyke 50% Games played: 18  
+Pyke Win rate50% Games played: 18  
  
-Zilean 58.823529411765% Games played: 17  
+Zilean Win rate58.823529411765% Games played: 17  
  
-Fiddlesticks 56.25% Games played: 16  
+Fiddlesticks Win rate56.25% Games played: 16  
  
-Lulu 53.333333333333% Games played: 15  
+Lulu Win rate53.333333333333% Games played: 15  
  
-Blitzcrank 53.846153846154% Games played: 13  
+Blitzcrank Win rate53.846153846154% Games played: 13  
  
-Swain 70% Games played: 10  
+Swain Win rate70% Games played: 10  
  
-Morgana 50% Games played: 10  
+Morgana Win rate50% Games played: 10  
  
-Braum 50% Games played: 8  
+Braum Win rate50% Games played: 8  
  
-Nautilus 37.5% Games played: 8  
+Nautilus Win rate37.5% Games played: 8  
  
-Alistar 57.142857142857% Games played: 7  
+Alistar Win rate57.142857142857% Games played: 7  
  
-Lux 42.857142857143% Games played: 7  
+Lux Win rate42.857142857143% Games played: 7  
  
-Yuumi 50% Games played: 6  
+Yuumi Win rate50% Games played: 6  
  
-Veigar 40% Games played: 5  
+Veigar Win rate40% Games played: 5  
  
-Syndra 40% Games played: 5  
+Syndra Win rate40% Games played: 5  
  
-Kayle 50% Games played: 4  
+Kayle Win rate50% Games played: 4  
  
-Rek'Sai 25% Games played: 4  
+Rek'Sai Win rate25% Games played: 4  
  
-Karma 100% Games played: 3  
+Karma Win rate100% Games played: 3  
  
-Poppy 66.666666666667% Games played: 3  
+Poppy Win rate66.666666666667% Games played: 3  
  
-Sion 66.666666666667% Games played: 3  
+Sion Win rate66.666666666667% Games played: 3  
  
-Renekton 33.333333333333% Games played: 3  
+Renekton Win rate33.333333333333% Games played: 3  
  
-Xerath 33.333333333333% Games played: 3  
+Xerath Win rate33.333333333333% Games played: 3  
  
-Tristana 100% Games played: 2  
+Tristana Win rate100% Games played: 2  
  
-Kayn 50% Games played: 2  
+Kayn Win rate50% Games played: 2  
  
-Leona 50% Games played: 2  
+Leona Win rate50% Games played: 2  
  
-Gangplank 50% Games played: 2  
+Gangplank Win rate50% Games played: 2  
  
-Vladimir 50% Games played: 2  
+Vladimir Win rate50% Games played: 2  
  
-Illaoi 0% Games played: 2  
+Illaoi Win rate0% Games played: 2  
  
-Pantheon 0% Games played: 2  
+Pantheon Win rate0% Games played: 2  
  
-Orianna 0% Games played: 2  
+Orianna Win rate0% Games played: 2  
  
-Sona 100% Games played: 1  
+Sona Win rate100% Games played: 1  
  
-Nami 100% Games played: 1  
+Nami Win rate100% Games played: 1  
  
-Tahm Kench 0% Games played: 1  
+Tahm Kench Win rate0% Games played: 1  
  
-Zyra 0% Games played: 1  
+Zyra Win rate0% Games played: 1  
  
-Shen 0% Games played: 1  
+Shen Win rate0% Games played: 1  
  
-Sylas 0% Games played: 1  
+Sylas Win rate0% Games played: 1  
  
-Wukong 0% Games played: 1  
+Wukong Win rate0% Games played: 1  
  
-Rakan 0% Games played: 1  
+Rakan Win rate0% Games played: 1  
  
-Ornn 0% Games played: 1  
+Ornn Win rate0% Games played: 1  
  
-Rumble 0% Games played: 1  
+Rumble Win rate0% Games played: 1  
  
-Qiyana 0% Games played: 1  
+Qiyana Win rate0% Games played: 1  
  
-Sivir 0% Games played: 1  
+Sivir Win rate0% Games played: 1  
  
-Vel'Koz 0% Games played: 1  
+Vel'Koz Win rate0% Games played: 1  
  
-Garen 0% Games played: 1  
+Garen Win rate0% Games played: 1  
  
-Graves 0% Games played: 1  
+Graves Win rate0% Games played: 1  
  
-Janna 0% Games played: 1  
+Janna Win rate0% Games played: 1  
  
